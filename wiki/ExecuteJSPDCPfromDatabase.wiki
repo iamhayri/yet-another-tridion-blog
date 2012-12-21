@@ -4,7 +4,8 @@
 = Introduction =
 
 Code samples:
- * https://code.google.com/p/yet-another-tridion-blog/source/browse/#svn%2Ftrunk%2FExecute%20JSP%20DCP%20from%20Database
+
+ * https://code.google.com/p/yet-another-tridion-blog/source/browse/trunk/Execute+JSP+DCP+from+Database
 
 Related blog posts:
 
