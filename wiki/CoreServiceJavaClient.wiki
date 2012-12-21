@@ -4,7 +4,7 @@
 = Introduction =
 
 Full code example:
- * https://code.google.com/p/yet-another-tridion-blog/source/browse/#svn%2Ftrunk%2FCore%20Service%20Java%20Client
+ * https://code.google.com/p/yet-another-tridion-blog/source/browse/trunk/Core+Service+Java+Client
 
 Related blog post:
 
