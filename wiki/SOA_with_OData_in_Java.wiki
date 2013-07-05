@@ -1,12 +1,11 @@
-#summary A Java client for Core Service WCF service (SDL Tridion 2011 SP1 HR1).
+#summary A sample Java implementation of a middle-tier application consuming Page content provided by a Content Delivery Web Service (OData).
+#labels SOA,OData,Java
 
 = Introduction =
 
 Full code example:
- * https://code.google.com/p/yet-another-tridion-blog/source/browse/trunk/Core+Service+Java+Client
+ * https://code.google.com/p/yet-another-tridion-blog/source/browse/trunk/SOA+with+OData+in+Java
 
 Related blog post:
 
- * http://yatb.mitza.net/2012/12/a-core-service-java-client.html
-
- * http://yatb.mitza.net/2012/12/java-core-service-trouble-with-datetime.html
+ * http://yatb.mitza.net/2013/07/a-java-service-oriented-architecture.html
