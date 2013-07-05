@@ -1,0 +1,15 @@
+#summary An extension to the OData Web Service that allows queries to be passed to the service using the $filter parameter. These queries are executed on the OData server using Criterias and Content Delivery API functionality.
+#labels OData,Query,CDAPI
+
+= Introduction =
+
+Full code:
+ * https://code.google.com/p/yet-another-tridion-blog/source/browse/trunk/OData+Query+Extension
+
+Related blog post:
+
+ * http://yatb.mitza.net/2013/06/extending-odata-query-functionality.html
+
+ * http://yatb.mitza.net/2013/06/url-syntax-for-odata-query-extension.html
+
+ * http://yatb.mitza.net/2013/06/function-support-for-queries-in-odata.html
