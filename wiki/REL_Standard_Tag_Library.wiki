@@ -4,7 +4,7 @@
 
 RSTL is a REL tag library similar to JSTL providing standard tag templating functionality such as forEach, if, choose, when, otherwise, XML XSL transformations, et al.
 
-RSTL also contains an Expression Language for parser that provides evaluation capability for conditional and mathematical expressions working with the REL TransformContext.
+RSTL also contains an Expression Language parser that provides evaluation capability for conditional and mathematical expressions and works with the REL TransformContext.
 
 Full source code:
  * https://code.google.com/p/yet-another-tridion-blog/source/browse/trunk/REL+Standard+Tag+Library
