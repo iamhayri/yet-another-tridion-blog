@@ -15,4 +15,4 @@ Related blog post:
 
  * [http://yatb.mitza.net/2013/07/rel-standard-tag-library-expression.html Expression Language used by RSTL]
 
- * [http://yatb.mitza.net/2013/07/rel-standard-tag-library-installation.html RSTL Installatoin Steps]
+ * [http://yatb.mitza.net/2013/07/rel-standard-tag-library-installation.html RSTL Installation Steps]
